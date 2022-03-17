@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c300b50c94f9a343a5756c5aed164bd, type: 3}
+  m_Name: A_WaveFormBuilder
+  m_EditorClassIdentifier: 
+  Clips:
+  - {fileID: 8300000, guid: eb254c68803073f4c9bd97fa84a7f546, type: 3}
+  - {fileID: 8300000, guid: e614eef0ada18284f9f9544cfe487912, type: 3}
+  - {fileID: 8300000, guid: 8b90e02f5ea3a6b48bba9bb157ce0d5e, type: 3}
+  - {fileID: 8300000, guid: 485f71d895159a942bd460f07ac7080a, type: 3}
+  TextureHeight: 24

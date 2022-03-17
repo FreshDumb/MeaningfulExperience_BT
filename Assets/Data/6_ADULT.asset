@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c16c6db7fab1b1f4fbd2ddb7649dae45, type: 3}
+  m_Name: 6_ADULT
+  m_EditorClassIdentifier: 
+  SelfMixValue: 32
+  MaxBackLight: 6
+  MaxCenterLight: 8
+  GrowTime: 10000
+  GrowScale: 1
+  CamGrowTime: 30
+  CamSize: 3.75
+  LearnToMoveTime: 40
+  MovementSpeed: 2
